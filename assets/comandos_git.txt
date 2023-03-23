@@ -1,0 +1,14 @@
+# Comandos Git
+
+Criar (iniciar) um repositório local
+$ git init
+
+Enviar arquivos para repositório remoto
+$ git push
+
+Fazer um commit
+$ git commit -m "mensagem"
+
+Clonar um repositório remoto
+$ git clone url_repositório
+
